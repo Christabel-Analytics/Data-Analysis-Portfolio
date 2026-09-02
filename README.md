@@ -12,9 +12,12 @@ Projects
 SQL
 
 * SQL Project 1 — https://github.com/Christabel-Analytics/sql-vaccination-analysis.git
+
+This project analysis vaccination data to identify trends and generate public health insights using postgreSQL
+
 * SQL Project 2 — https://github.com/Christabel-Analytics/sql-maternal-mortality-analysis.git
 
-  Analysis of maternal mortality data to identify trends, regional patterns, and public health insights using postgreSQL
+ This project Analysis maternal mortality data to identify trends, regional patterns, and public health insights using postgreSQL
 
 
 Microsoft Excel
@@ -38,6 +41,7 @@ Skills & Tools
 
 * SQL
 * Microsoft Excel
+* formulas
 * Power BI
 * Power Query
 * DAX
