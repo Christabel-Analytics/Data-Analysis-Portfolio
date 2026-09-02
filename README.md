@@ -11,7 +11,7 @@ SQL
 Microsoft Excel
 
 * Excel Project 1 — https://github.com/Christabel-Analytics/Employee-Health-Analytics-Dashboard.git
-* Excel Project 2 — View Project
+* Excel Project 2 — https://github.com/Christabel-Analytics/excel-hospital-clinical-insights-dashboard.git
 
 Power BI
 
