@@ -6,7 +6,7 @@ Projects
 SQL
 
 * SQL Project 1 — https://github.com/Christabel-Analytics/sql-vaccination-analysis.git
-* SQL Project 2 — View Project
+* SQL Project 2 — https://github.com/Christabel-Analytics/sql-maternal-mortality-analysis.git
 
 Microsoft Excel
 
