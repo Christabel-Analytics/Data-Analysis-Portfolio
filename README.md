@@ -1,7 +1,9 @@
 
 
 Welcome to my data analysis portfolio. 
+
 About
+
 I am a Public Health graduate building my skills in data analysis with an interest in applying data-driven approaches to public health and epidemiology.
 
 This repository showcases my practical projects using SQL, Microsoft Excel, and Power BI, with a focus on data cleaning, analysis, visualization, and communicating data-driven insights.
