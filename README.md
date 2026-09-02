@@ -10,13 +10,13 @@ SQL
 
 Microsoft Excel
 
-* Excel Project 1 — View Project
+* Excel Project 1 — https://github.com/Christabel-Analytics/Employee-Health-Analytics-Dashboard.git
 * Excel Project 2 — View Project
 
 Power BI
 
 * Nigeria Disease Surveillance Analysis — https://github.com/Christabel-Analytics/Nigeria-Disease-Surveillance.git
-  Analysis of simulated disease surveillance data across 10 Nigerian states from 2024–2025, exploring disease trends, demographics, geographic distribution, and case outcomes.
+ Analysis of simulated disease surveillance data across 10 Nigerian states from 2024–2025, exploring disease trends, demographics, geographic distribution, and case outcomes.
 
 
 Skills & Tools
