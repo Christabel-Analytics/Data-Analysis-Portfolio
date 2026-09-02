@@ -16,6 +16,8 @@ Microsoft Excel
 
 * Excel Project 2 — https://github.com/Christabel-Analytics/excel-hospital-clinical-insights-dashboard.git
 
+  This project analyzes hospital patient and clinical data using Microsoft Excel formulas, pivot table, pivot charts, and slicers to gain insights on patients, clinical data and hospital utilization
+
 Power BI
 
 * Nigeria Disease Surveillance Analysis — https://github.com/Christabel-Analytics/Nigeria-Disease-Surveillance.git
